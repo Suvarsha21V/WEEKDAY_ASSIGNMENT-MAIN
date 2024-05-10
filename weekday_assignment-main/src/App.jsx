@@ -39,7 +39,7 @@ function App() {
         let randomIndex = Math.floor(Math.random() * companyNames.length);
         let companyName = companyNames[randomIndex];
 
-        const modes = ["In-Office", "Hybrid", "Remote"];
+        const modes = ["In-Office", "Remote"];
         let randomModeIndex = Math.floor(Math.random() * modes.length);
         let mode = modes[randomModeIndex];
 
