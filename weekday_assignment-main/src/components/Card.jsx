@@ -112,7 +112,8 @@ const BasicCard = ({ data }) => {
         </Typography>
         <Box>
           <Typography variant="body1" color="text.secondary">
-            Skills
+            Skills:
+            HTML, CSS, JS, Python, SQL
           </Typography>
           <Stack
             direction="row"
