@@ -30,7 +30,7 @@ const BasicCard = ({ data }) => {
     >
       <CardContent>
         <Chip
-          label={data?.posted || `⏳Posted  hour ago`}
+          label={data?.posted || `⏳Posted hour ago`}
           size="small"
           variant="outlined"
           style={{
@@ -76,6 +76,7 @@ const BasicCard = ({ data }) => {
         </Box>
         <Typography variant="body1" fontWeight="bold">
           About Company:
+          "Pioneering Progress, Empowering Growth."
         </Typography>
         <Typography variant="body2" fontWeight="bold">
           About us
