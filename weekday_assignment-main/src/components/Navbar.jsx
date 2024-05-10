@@ -89,15 +89,6 @@ const Navbar = ({ data, setFilteredData }) => {
         <Tabs value={value}>
           <Tab label="Applied jobs"  />
           <Tab label="Search jobs" />
-          <Badge
-            badgeContent={100}
-            color="primary"
-            style={{
-              position: "relative",
-              top: "0.7rem",
-              right: "0",
-            }}
-          ></Badge>
           <Tab label="Suggested jobs"  />
         </Tabs>
       </Box>
