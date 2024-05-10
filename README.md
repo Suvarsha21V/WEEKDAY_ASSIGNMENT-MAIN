@@ -8,6 +8,7 @@ Job title
 Company name
 Location 
 Job description( Show more and Show less)
+Skills required
 Experience required
 Apply button/link - Easy apply linked to weekday website
 
