@@ -38,7 +38,7 @@
     "Enzyme",
     "Jasmine"
   ],
-  "minBasePay": ["0L", "10L", "20L", "30L", "40L", "50L", "60L", "70L"],
+  "minBasePay": ["0L-10L", "10L-20L", "20L-30L", "30L-40L", "40L-50L", "50L-60L", "60L-70L", "70L-80L"],
   "experience": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
-  "mode": ["In-Office", "Hybrid", "Remote"]
+  "mode": ["In-Office", "Remote"]
 }
