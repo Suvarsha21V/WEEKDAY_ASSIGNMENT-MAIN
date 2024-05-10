@@ -172,7 +172,7 @@ const BasicCard = ({ data }) => {
         >
           <BoltIcon style={{ marginRight: "0.5rem", color: "#FF822D" }} />
           <Typography variant="body2" fontWeight="bold">
-            Easy Apply
+            ⚡Easy Apply
           </Typography>
         </Button>
       </CardActions>
