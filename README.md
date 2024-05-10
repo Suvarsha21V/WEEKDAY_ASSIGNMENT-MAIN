@@ -15,7 +15,7 @@ Secondly Filters
 
 Filters contains the following:
 Experience
-Remote/on-site/Hybrid
+Remote/on-site
 Role
 Min base pay
 
