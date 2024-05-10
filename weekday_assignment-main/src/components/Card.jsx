@@ -39,7 +39,7 @@ const BasicCard = ({ data }) => {
           }}
         />
         <Box style={{ display: "flex", marginBottom: "0.5rem", gap: "1rem" }}>
-          <img src={data?.img || `https://placehold.co/40x40`} alt="" />
+          <img src={data?.img || 'weekday-assignment-main\public\vite.svg'} alt="" />
           <Box>
             <Typography variant="body1" fontWeight="bold">
               {data?.companyName || "Company Name"}
